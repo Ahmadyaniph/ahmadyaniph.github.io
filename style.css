@@ -1,0 +1,41 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-image: url(img/BG.png);
+}
+
+/* .jumbotron a {
+  display: inline-block;
+}
+
+.jumbotron img {
+  display: inline-block;
+} */
+
+.issi {
+  background-color: white;
+}
+
+.jumbotron a .FB:hover {
+  width: 40px;
+  transition: 0.2s;
+}
+
+.jumbotron a .GIT:hover {
+  width: 40px;
+  transition: 0.2s;
+}
+
+.jumbotron a .INK:hover {
+  width: 40px;
+  transition: 0.2s;
+}
+
+.jumbotron a .IG:hover {
+  width: 40px;
+  transition: 0.2s;
+}
+
+.jumbotron a .WA:hover {
+  width: 40px;
+  transition: 0.2s;
+}
